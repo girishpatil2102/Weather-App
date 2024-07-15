@@ -12,7 +12,7 @@ import { FormsModule } from '@angular/forms';
 })
 export class WeatherCardComponent implements OnInit {
 
-  cityName='';
+  cityName='India';
   data={
     temp:'',
     feelsLike:'',
