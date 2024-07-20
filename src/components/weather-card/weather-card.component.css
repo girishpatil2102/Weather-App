@@ -23,10 +23,6 @@
     border-radius: 5px;
     width: 70%;
 }
-.search-btn{
-    border-top-left-radius:5px ;
-    border-bottom-left-radius: 5px;
-}
 
 .temperature{
     font-size: 2.5rem ;
