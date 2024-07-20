@@ -4,7 +4,7 @@
     background: linear-gradient(to right, #040b68, rgb(1, 1, 82));
     border-radius: 15px;
     padding: 20px; 
-    box-shadow: 3px 3px 5px rgba(82, 82, 82, 0.3);
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
     color: white;
 }
 
@@ -21,6 +21,7 @@
 
 .search-input{
     border-radius: 5px;
+    width: 72%;
 }
 .search-btn{
     border-top-left-radius:0 ;
